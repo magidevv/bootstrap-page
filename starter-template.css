@@ -109,7 +109,7 @@ h5 {
 }
 
 #first-section {
-  background: url(../skeleton/img/bg1.png) no-repeat;
+  background: url(./skeleton/img/bg1.png) no-repeat;
   background-size: cover;
   background-attachment: scroll;
   padding-top: 21rem;
@@ -182,7 +182,7 @@ td:nth-child(3) {
 }
 
 #seventh-section {
-  background: url(../skeleton/img/bg2.png) no-repeat;
+  background: url(./skeleton/img/bg2.png) no-repeat;
   height: 52rem;
   background-size: cover;
   background-attachment: scroll;
@@ -260,7 +260,7 @@ hr {
 }
 
 .hr-ribbon {
-  background: url(../skeleton/img/ribbon.png);
+  background: url(./skeleton/img/ribbon.png);
   height: 0.6rem;
   width: inherit;
 }
